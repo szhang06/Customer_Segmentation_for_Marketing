@@ -1,4 +1,4 @@
-# Data_Science_Marketing_Use_Case
+# Customer_Segmentation_Marketing_Use_Case
 
 This project is about marketing campaigns for a food company. We need to get insights about customers characteristics and behavior to maximize profits from the coming campaign. 
 
